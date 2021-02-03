@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App_with_tabs_Iadrikhinskii</string>
+    <string name="tab_text_1">Вкладка 1</string>
+    <string name="tab_text_2">Вкладка 2</string>
+    <string name="tab_text_3">Вкладка 3</string>
+    <string name="red_flowers">Красный букет</string>
+    <string name="yellow_flowers">Желтый букет</string>
+    <string name="violet_flowers">Фиолетовый букет</string>
+</resources>
